@@ -3,7 +3,7 @@ A robot pincher arm simulator and controller<br>
 
 This software has only been tested on windows 7<br>
 
-required packages to run<br>
+Required packages to run:<br>
 python 2.7<br>
 wxpython version 3.0     http://www.wxpython.org/download.php <br>
 Python OpenGL http://PyOpenGL.sourceforge.net/ <br>
