@@ -18,4 +18,5 @@ usage video can be found at http://youtu.be/hvzwoRb3RfU<br>
 
 to start run: PyPose.py<br>
 
+This software has been forked from vanadium labs PyPose software: http://www.vanadiumlabs.com/pypose <br>
 the PhantomX Pincher arm can be purchased here: http://www.trossenrobotics.com/p/PhantomX-Pincher-Robot-Arm.aspx
