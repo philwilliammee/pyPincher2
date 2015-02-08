@@ -15,3 +15,5 @@ other packages may be required<br>
 dont forget to add python in LIB/site_packages to your environment variables path<br>
 
 usage video can be found at http://youtu.be/hvzwoRb3RfU<br>
+
+to start run: PyPose.py
