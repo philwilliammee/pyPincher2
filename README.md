@@ -1,17 +1,17 @@
 # pyPincher2
-A robot pincher arm simulator and controller
+A robot pincher arm simulator and controller<br>
 
-This software has only been tested on windows 7
+This software has only been tested on windows 7<br>
 
-required packages to run
-python 2.7
-wxpython version 3.0     http://www.wxpython.org/download.php \n
-Python OpenGL http://PyOpenGL.sourceforge.net/ \n
-numpy 
-python serial
-pygame  http://pygame.org/download.shtml \n
-other packages may be required
+required packages to run<br>
+python 2.7<br>
+wxpython version 3.0     http://www.wxpython.org/download.php <br>
+Python OpenGL http://PyOpenGL.sourceforge.net/ <br>
+numpy <br>
+python serial<br>
+pygame  http://pygame.org/download.shtml <br>
+other packages may be required<br>
 
-dont forget to add python in LIB/site_packages to your environment variables path
+dont forget to add python in LIB/site_packages to your environment variables path<br>
 
-usage video can be found at http://youtu.be/hvzwoRb3RfU
+usage video can be found at http://youtu.be/hvzwoRb3RfU<br>
