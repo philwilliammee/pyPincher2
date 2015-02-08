@@ -5,11 +5,11 @@ This software has only been tested on windows 7
 
 required packages to run
 python 2.7
-wxpython version 3.0     http://www.wxpython.org/download.php
-Python OpenGL http://PyOpenGL.sourceforge.net/
+wxpython version 3.0     http://www.wxpython.org/download.php \n
+Python OpenGL http://PyOpenGL.sourceforge.net/ \n
 numpy 
 python serial
-pygame  http://pygame.org/download.shtml
+pygame  http://pygame.org/download.shtml \n
 other packages may be required
 
 dont forget to add python in LIB/site_packages to your environment variables path
