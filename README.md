@@ -16,4 +16,6 @@ dont forget to add python in LIB/site_packages to your environment variables pat
 
 usage video can be found at http://youtu.be/hvzwoRb3RfU<br>
 
-to start run: PyPose.py
+to start run: PyPose.py<br>
+
+the PhantomX Pincher arm can be purchased here: http://www.trossenrobotics.com/p/PhantomX-Pincher-Robot-Arm.aspx
